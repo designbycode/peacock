@@ -1,6 +1,6 @@
 {
   "name": "@designbycode/peacock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful TypeScript color palette generator that creates harmonious color scales from a single base color. Perfect for design systems, UI frameworks, and custom theming solutions.",
   "main": "/dist/index.umd.cjs",
   "module": "./dist/index.js",
