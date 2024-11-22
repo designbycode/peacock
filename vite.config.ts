@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.ts"),
-      name: "__PACKAGE_NAME__",
+      name: "@designbycode/peacock",
       fileName: "index"
     },
     minify: "terser",
